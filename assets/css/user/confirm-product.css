@@ -1,0 +1,59 @@
+
+
+.mpcp-front-form-container{
+
+}
+
+.mpcp-label-container{
+    font-size: 20px;
+    margin-bottom: 0px !important;
+    font-weight: bold;
+    color: #6a92ab;
+}
+.mpcp-label-container{
+    margin: 0px;
+}
+.mpcp-input-container{
+    display: flex;
+    width: 90% !important;
+}
+
+.mpcp-front-input-div{
+    flex: 6;
+}
+
+.mpcp-search-button-div{
+    flex: 1;
+}
+
+
+
+.mpcp-front-input{
+    width: 100% ;
+    line-height: 35px;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    color: #7b8a9c;
+}
+
+
+
+.mpcp-search-button{
+    font-weight: bold;
+    font-size: 16px;
+    padding: 12px 20px;
+    margin: 0px 10px;
+    line-height: 40px;
+    border-radius: 5px;
+    background: #fff;
+    border-radius: 5px !important;
+    border: 0px;
+    cursor: pointer;
+    color: #3d7071;
+    white-space: nowrap;
+}
+
+.mpcp-search-button:hover{
+    opacity: 0.5;
+}

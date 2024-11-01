@@ -1,0 +1,70 @@
+table {
+          border-spacing: 0px;
+          border: 0px;
+        }
+
+        .border-none>tbody>tr>td {
+          border: none!important;
+          padding:5px !important;
+        }
+
+        .btn-success {
+          background: #2b8c2b !important;
+        }
+
+        .btn-danger {
+          background: #cc1313 !important;
+          margin:0px 0px 0px 20px;
+        }
+
+        .btn {
+          line-height: 20px !important;
+        }
+
+        .full-width {
+          width: 100%!important;
+        }
+
+        .record-controls>table {
+          width: 0%;
+        }
+
+        .btn-submit {
+          margin-right: 10px!important;
+          float: right!important;
+          width: 100px !important;
+        }
+
+        .border-radius {
+          border-radius: 5px!important;
+        }
+
+        input {
+          line-height: 20px !important;
+        }
+
+        audio {
+          border-radius: 10px !important;
+          margin-bottom: -5px !important;
+        }
+
+      #control-container{
+      display:flex;
+      margin:15px 0px 0px 5px;
+      }
+        .error-message {
+          color: #cc1313;
+          font-size: 14px;
+      margin-top:5px;
+        }
+      .message-success{
+        color: black;
+        background: #00800036;
+        padding: 10px;
+        margin: 20px;
+        border: 1px solid #00800040;
+        border-radius: 5px;
+      }
+        body {
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif !important;
+        }

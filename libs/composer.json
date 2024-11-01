@@ -1,0 +1,16 @@
+{
+    "name": "product/confirmproduct",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Machine Pereere",
+            "email": "admin@pereere.com"
+        }
+    ],
+    
+    "minimum-stability": "alpha",
+    "require": {
+        "phpmailer/phpmailer": "^6.0",
+        "tareq1988/wordpress-settings-api-class": "dev-master"
+    }
+}

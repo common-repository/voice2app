@@ -1,0 +1,132 @@
+
+body {
+    background: #eaeaea !important;
+}
+
+.button{
+    margin-bottom:0px !important;
+}
+/* margin */
+.mp-margin-5{
+    margin:5px;
+}
+.mp-margin-0{
+    margin:0px !important;
+}
+.mp-margin-right-0{
+    margin-right: 0px;
+}
+.mp-margin-right-5{
+    margin-right: 5px;
+}
+.mp-margin-bottom-5{
+    margin-bottom:  5px;
+}
+.mp-margin-bottom-10{
+    margin-bottom:  10px;
+}
+.mp-margin-auto{
+    margin:  auto;
+}
+.mp-margin-top-100{
+    margin-top:   100px;;
+}
+/* color */
+.mp-transparent{
+    background: transparent;
+}
+/* padding */
+.mp-padding-0{
+    padding: 0px;
+}
+.mp-padding-5{
+    padding: 5px;
+}
+.mp-padding-right-5{
+    padding-right: 5px;
+}
+/* hover */
+.mp-hover-opacity-5:hover{
+    opacity: 0.5;
+}
+/*Positioning*/
+.mp-relative{
+    position: relative;
+}
+.mp-absolute{
+    position: absolute;
+}
+.mp-absolute-top-right{
+    top: 0;
+    right: 0;
+}
+/* Flex */
+.mp-flex-wrap{
+    display:flex !important;
+    flex-wrap: wrap !important;
+    flex-direction: row !important;
+}
+.mp-flex{
+    display:flex !important;
+    flex-direction: row !important;
+}
+.mp-full{
+    width:100% !important;
+}
+.mp-fit{
+    width: -moz-fit-content !important;
+    width : fit-content !important;
+}
+.mp-fit-all{
+    height : -moz-fit-content !important;
+    height : fit-content !important;
+    width: -moz-fit-content !important;
+    width : fit-content !important;
+}
+.mp-fit-height{
+    height : -moz-fit-content !important;
+    height : fit-content !important;
+}
+/* fonts */
+.mp-font-weight-900{
+    font-weight: 900;
+}
+.mp-font-size-30{
+    font-size: 30px; 
+}
+/* labels with input */
+.mp-mw-label{
+    background-color: #f5f5dc;
+    font-weight: bold;
+}
+.mp-label-and-input-checkbox {
+    padding: 0px 10px;
+    background-color: #fff;
+    height: 32px;
+    line-height: 32px;
+    margin: 0px 5px;
+}
+.mp-label-and-input-text {
+    padding: 5px;
+    background-color: #fff;
+    margin: 0px 5px;
+    width: fit-content;
+}
+.mp-pointer{
+    cursor: pointer;
+}
+/* text */
+.mp-text-center{
+    text-align: center;
+}
+::-webkit-input-placeholder { /* Edge */
+    color: #efefef;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #efefef;
+}
+
+::placeholder {
+    color: #efefef;
+}
